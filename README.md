@@ -1,4 +1,4 @@
-O projeto clinica foi desenvolvido em Python e utilizando o framework django, desenvolvidas várias telas entre elas tela de login, tela de cadastro de usuários, tela de cadastro médico, tela de abertura de consulta pelo médico, dela te consulta para o paciente, tela de importação de documentos receita entre outras.
+O projeto clinica foi desenvolvido em Python e utilizando o framework django, desenvolvidas várias telas entre elas tela de login, tela de cadastro de usuários, tela de cadastro médico, tela de abertura de consulta pelo médico, tela te consulta para o paciente, tela de importação de documentos receita entre outras.
 
 Segue algumas imagens de telas abaixo, para um melhor entendimento. 
 
